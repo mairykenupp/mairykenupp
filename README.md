@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 <!--GitHub Streak from: https://github-readme-streak-stats.herokuapp.com/demo/ || GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mairykenupp&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=525)](https://git.io/streak-stats) &nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
-<br/>
-<br/>
+
 <!--- Badges from: https://naereen.github.io/badges/
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 --->
