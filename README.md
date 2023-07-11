@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Github Trophies from: https://github.com/ryo-ma/github-profile-trophy#dracula
+<!--Github Trophies from: https://github.com/ryo-ma/github-profile-trophy#dracula-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-#GitHub Stats from: https://github.com/anuraghazra/github-readme-stats
+<!--GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
