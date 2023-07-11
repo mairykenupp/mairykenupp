@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 [![MasterHead](banner.png)](https://github.com/mairykenupp/mairykenupp/)
 
 <!--Github Trophies from: https://github.com/ryo-ma/github-profile-trophy#dracula-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--GitHub Streak from: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 || GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mairykenupp)](https://git.io/streak-stats)
+<!--GitHub Streak from: https://github-readme-streak-stats.herokuapp.com/demo/ || GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mairykenupp&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
