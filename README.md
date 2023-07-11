@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](banner.png)](https://github.com/mairykenupp/mairykenupp/)
 
 <!--Github Trophies from: https://github.com/ryo-ma/github-profile-trophy#dracula || Spotify mod from: https://github.com/JeffreyCA/spotify-recently-played-readme-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12168652719&width=340&unique=true&count=1)](https://open.spotify.com/user/mairykenupp)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12168652719&width=300&unique=true&count=1)](https://open.spotify.com/user/mairykenupp)
 
 <!--GitHub Streak from: https://github-readme-streak-stats.herokuapp.com/demo/ || GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mairykenupp&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=525)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
