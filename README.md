@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 <!--Github Trophies from: https://github.com/ryo-ma/github-profile-trophy#dracula-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mairykenupp&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
+<!--GitHub Streak from: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 || GitHub Stats from: https://github.com/anuraghazra/github-readme-stats-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mairykenupp)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight)
