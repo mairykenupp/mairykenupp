@@ -1,0 +1,30 @@
+name: Atualizar troféu
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trofeu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar troféu
+        uses: Erik-Donath/github-profile-trophy@eb0893b31de06841663555d10aa43eb7cf27952f
+        with:
+          username: mairykenupp
+          file: trophy.svg
+          theme: tokyonight
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --cached --quiet || (git commit -m "Atualiza troféu" && git push)
