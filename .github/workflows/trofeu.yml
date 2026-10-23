@@ -20,7 +20,7 @@ jobs:
           username: mairykenupp
           file: trophy.svg
           theme: tokyonight
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Salvar no repositório
         run: |
