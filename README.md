@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/mairykenupp"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12168652719&theme=dracula&count=1&width=1000&radius=20&time=0&album=1" width="100%" alt="Spotify recently played" /></a> &nbsp;&nbsp;&nbsp; ![trophy](./trophy.svg) 
 
 <!--GitHub Streak from: https://github-readme-streak-stats.herokuapp.com/demo/ || GitHub Stats from: https://github.com/stats-organization/github-stats-extended-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mairykenupp&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467)](https://git.io/streak-stats) &nbsp;&nbsp; ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight&commits_year=2026&hide=contribs&line_height=30)
+<table>
+  <tr>
+    <td width="50%"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mairykenupp&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" alt="GitHub Streak" /></a></td>
+    <td width="50%"><img src="https://github-stats-extended.vercel.app/api?username=mairykenupp&show_icons=true&theme=tokyonight&commits_year=2026&hide=contribs&line_height=30" width="100%" alt="GitHub Stats" /></td>
+  </tr>
+</table>
 
 <!--- Badges from: https://naereen.github.io/badges/ || Top Languages from: https://github.com/anuraghazra/github-readme-stats
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
